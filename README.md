@@ -3,18 +3,14 @@
 
 🎓 I'm a **second-year BCA student** 
 
-🌱 Currently learning: React.js and PostgreSQL
+🌱 Currently learning: linux and astro
 
-# 💻 Tech Stack:
+### Languages & Tools
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![EJS](https://img.shields.io/badge/EJS-FFFFFF?style=for-the-badge&logo=EJS&logoColor=black)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,express,nodejs,java,react,git,js,postgres,nextjs,php,postman,c" />
+  </a>
+</p>
 
 
 ## 📊 GitHub Stats
@@ -23,6 +19,16 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=sudip-kandel7&theme=dark&hide_border=false&show_icons=true&locale=en&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sudip-kandel7&theme=dark&hide_border=false)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sudip-kandel7/sudip-kandel7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sudip-kandel7/sudip-kandel7/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/sudip-kandel7/sudip-kandel7/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sudip-kandel7&limit=5&theme=dark&combine_all_yearly_contributions=true)
