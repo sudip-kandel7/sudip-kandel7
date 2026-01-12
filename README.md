@@ -4,6 +4,14 @@
 
 🌱 Currently learning **Linux & Astro**
 
+### 📫 How to reach me
+
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/paade_7/)
+[![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/sudip7.k)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sudip-kandel7/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/paade_7)
+
+
 ---
 
 ## 🚀 Languages & Tools
@@ -17,13 +25,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudip-kandel7&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudip-kandel7&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sudip-kandel7&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=sudip-kandel7&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-kandel7&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-kandel7&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 </p>
+
 
 ---
 
