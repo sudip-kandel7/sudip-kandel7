@@ -1,4 +1,4 @@
-## 💫 About Me
+##  About Me
 
 🎓 I'm a **second-year BCA student**  
 
@@ -6,10 +6,10 @@
 
 ### 📫 How to reach me
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/paade_7/)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sudip-kandel7/)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/paade_7)
-
+<p align="center">
+<a href="https://linkedin.com/in/sudip-kandel7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" style="margin: 0 6px;" /></a>
+<a href="https://fb.com/sudip7.k" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" style="margin: 0 6px;" /></a>
+<a href="https://instagram.com/paade_7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" style="margin: 0 6px;" /></a>
 
 ---
 
@@ -31,7 +31,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-kandel7&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 </p>
-
 
 ---
 
