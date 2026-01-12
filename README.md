@@ -7,7 +7,7 @@
 ### 📫 How to reach me
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/paade_7/)
-[![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/sudip7.k)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sudip7.k)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sudip-kandel7/)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/paade_7)
 
