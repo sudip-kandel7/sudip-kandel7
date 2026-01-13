@@ -1,8 +1,8 @@
 ## About Me
 
-🎓 I'm a **second-year BCA student**
+I'm a **second-year BCA student**
 
-🌱 Currently learning **Linux & Astro**
+Currently learning **Linux & Astro**
 
 ### How to reach me
 
