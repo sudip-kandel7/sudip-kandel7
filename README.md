@@ -1,10 +1,10 @@
-##  About Me
+## About Me
 
-🎓 I'm a **second-year BCA student**  
+🎓 I'm a **second-year BCA student**
 
 🌱 Currently learning **Linux & Astro**
 
-### 📫 How to reach me
+### How to reach me
 
 <p align="center">
 <a href="https://linkedin.com/in/sudip-kandel7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" style="margin: 0 6px;" /></a>
@@ -13,13 +13,13 @@
 
 ---
 
-## 🚀 Languages & Tools
+## Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,java,php,postgres,git,postman,c&perline=7" />
 </p>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>
