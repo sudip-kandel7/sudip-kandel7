@@ -11,7 +11,6 @@ Currently learning **Linux & Astro**
 <a href="https://fb.com/sudip7.k" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" style="margin: 0 6px;" /></a>
 <a href="https://instagram.com/paade_7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" style="margin: 0 6px;" /></a>
 
----
 
 ## Languages & Tools
 
@@ -36,10 +35,3 @@ Currently learning **Linux & Astro**
 ![](https://github-readme-stats.vercel.app/api?username=sudip-kandel7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sudip-kandel7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-kandel7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=sudip-kandel7&icon=0&color=0)](https://visitcount.itsvg.in)
-
