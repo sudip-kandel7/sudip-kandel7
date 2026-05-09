@@ -29,7 +29,3 @@ Currently learning **Linux & Astro**
       src="https://raw.githubusercontent.com/sudip-kandel7/sudip-kandel7/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
-# GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=sudip-kandel7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudip-kandel7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
