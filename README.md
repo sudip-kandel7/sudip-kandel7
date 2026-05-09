@@ -18,7 +18,6 @@ Currently learning **Linux & Astro**
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,java,php,postgres,git,postman,c&perline=7" />
 </p>
 
-## Contribution Snake
 
 <p align="center">
   <picture>
